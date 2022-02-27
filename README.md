@@ -17,7 +17,7 @@ Fonts needed:
 
 - Inconsolata
 
-- Fonts
+- Fonts-font-awesome
 
 GTK Themes:
 ![Layan Dark](https://www.gnome-look.org/p/1309214)
