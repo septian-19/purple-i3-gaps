@@ -1,0 +1,30 @@
+[global_config]
+  title_transmit_fg_color = "#edecee"
+  title_transmit_bg_color = "#110f18"
+  title_inactive_fg_color = "#edecee"
+  title_inactive_bg_color = "#4d4d4d"
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_darkness = 0.4
+    background_type = transparent
+    cursor_shape = underline
+    font = Inconsolata Medium 10
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_lines = 1000
+    palette = "#110f18:#ff6767:#61ffca:#ffca85:#a277ff:#a277ff:#61ffca:#edecee:#4d4d4d:#ffca85:#a277ff:#ffca85:#a277ff:#a277ff:#61ffca:#edecee"
+    foreground_color = "#edecee"
+    background_color = "#15141b"
+    cursor_color = "#edecee"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
