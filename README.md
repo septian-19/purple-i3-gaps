@@ -1,13 +1,5 @@
----
-title: Solarized
-description: Purple theme for i3-gaps
-author: Ary Septian
-dependencies: i3-gaps, polybar, terminator
-created:  2022 Feb 27
-
----
 # purple-i3-gaps
-My first test i3-gaps theme
+My first test i3-gaps theme for i3-gaps, Polybar, and Terminator
 
 Fonts needed:
 
